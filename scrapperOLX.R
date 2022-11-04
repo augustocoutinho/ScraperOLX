@@ -2,7 +2,7 @@ library(glue)
 library(rvest)
 library(polite)
 
-## Lista de UFs necessárias para adicionarmos à URL da OLX
+## Lista de UFs necessárias para adicionarmos à URL do site da OLX
 ufs <- c("ac", "al", "ap", "am", "ba", "ce", "df", "es", 
          "go", "ma", "mt", "ms", "mg", "pa", "pb", "pr", 
          "pe", "pi", "rj", "rn", "rs","ro", "rr", "sc", 
