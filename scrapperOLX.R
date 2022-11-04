@@ -1,3 +1,7 @@
+##################################################################
+#Github Token :: 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
+##################################################################
+
 library(glue)
 library(rvest)
 library(polite)
@@ -42,7 +46,7 @@ for (k in 1:length(ufs)) {
     }
   }
   
-  print(glue("{str_to_upper(ufs[k])} feita!"))
+  print(glue("{str_to_upper(ufs[k])} concluído!"))
   
 }
 
