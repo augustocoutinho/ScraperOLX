@@ -1,7 +1,3 @@
-##################################################################
-#Github Token :: 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
-##################################################################
-
 library(glue)
 library(rvest)
 library(polite)
