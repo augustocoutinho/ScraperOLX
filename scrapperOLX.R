@@ -11,6 +11,7 @@ ufs <- c("ac", "al", "ap", "am", "ba", "ce", "df", "es",
 ## Adiciona uma base vazia
 olx <- data.frame()
 
+## Loop que coleta o dado (dois loops)
 for (k in 1:length(ufs)) {
   
   for (i in 1:100) {
