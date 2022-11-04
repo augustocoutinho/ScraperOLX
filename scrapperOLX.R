@@ -8,6 +8,7 @@ ufs <- c("ac", "al", "ap", "am", "ba", "ce", "df", "es",
          "pe", "pi", "rj", "rn", "rs","ro", "rr", "sc", 
          "sp", "se", "to")
 
+## Adiciona uma base vazia
 olx <- data.frame()
 
 for (k in 1:length(ufs)) {
